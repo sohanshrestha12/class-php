@@ -19,6 +19,7 @@
 
     $animals = new Animal("monkey","200cm","orange");
     $animals->move();
+    //inheritance
     // class Dog extends animal{
 
     // }
