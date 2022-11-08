@@ -36,4 +36,5 @@
     echo $admin1->setemail('admin123@gmail.com') . '<br>';
     echo $admin1->username='admin <br>';
     echo $admin1->getuseremail();
+    // parent::__construct($username,$email,$password);
 ?>
